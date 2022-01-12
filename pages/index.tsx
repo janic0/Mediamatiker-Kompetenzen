@@ -143,7 +143,7 @@ function App(props: { data: node[] }) {
 							target="_blank"
 							rel="noopener noreferrer"
 							className="text-blue-700 dark:text-blue-300"
-							href="https://github.com/janic0"
+							href="https://github.com/janic0/Mediamatiker-Kompetenzen"
 						>
 							View Source
 						</a>
