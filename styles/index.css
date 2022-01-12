@@ -1,0 +1,34 @@
+body {
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+		"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+		sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  @apply bg-white;
+  @apply dark:bg-slate-800;
+}
+
+.chevron {
+	background-image: url('data:image/svg+xml;utf8,%3Csvg%20width%3D%22100%25%22%20height%3D%22100%25%22%20viewBox%3D%220%200%205417%206667%22%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20xml%3Aspace%3D%22preserve%22%20xmlns%3Aserif%3D%22http%3A%2F%2Fwww.serif.com%2F%22%20style%3D%22fill-rule%3Aevenodd%3Bclip-rule%3Aevenodd%3Bstroke-linejoin%3Around%3Bstroke-miterlimit%3A2%3B%22%3E%3Cg%3E%3Cpath%20d%3D%22M773.811%2C5656.88c-111.702%2C111.702%20-111.702%2C293.077%20-0%2C404.779l404.779%2C404.779c111.702%2C111.702%20293.077%2C111.702%20404.779%2C-0l3059.49%2C-3059.49c111.702%2C-111.702%20111.702%2C-293.077%20-0%2C-404.779l-404.779%2C-404.779c-111.702%2C-111.702%20-293.077%2C-111.702%20-404.779%2C-0l-3059.49%2C3059.49Z%22%20style%3D%22fill%3A%23fff%3B%22%2F%3E%3Cpath%20d%3D%22M997.404%2C991.289c-111.771%2C-111.771%20-109.577%2C-290.953%204.895%2C-399.884l414.82%2C-394.739c114.472%2C-108.931%20298.153%2C-106.626%20409.923%2C5.144l2817.18%2C2817.18c111.771%2C111.771%20109.577%2C290.953%20-4.895%2C399.884l-414.819%2C394.739c-114.473%2C108.931%20-298.154%2C106.626%20-409.924%2C-5.144l-2817.18%2C-2817.18Z%22%20style%3D%22fill%3A%23fff%3B%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E');
+	background-repeat: no-repeat;
+	
+}
