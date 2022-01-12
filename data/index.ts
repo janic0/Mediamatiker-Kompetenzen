@@ -35,6 +35,7 @@ export default [
                     "a3.1: übertragen Rohdaten von einem Speichermedium auf die vorgegebene Dateiablage und legen sie korrekt strukturiert ab. ",
                     "a3.2: schneiden Rohdaten (Film, Audio) mit unterschiedlichen Schnitttechniken. ",
                     "a3.3: vertonen den erstellten Filmschnitt (z.B. Musik, Geräusche, Voice-over).",
+                    "a3.4: optimieren Audiodaten (z.B. Störgeräusche entfernen, normalisieren).",
                     "a3.5: binden verschiedene Elemente korrekt ein (z.B. einfache Animationen).",
                     "a3.6: nehmen Farbkorrekturen und Farbgebungen vor.",
                     "a3.7: überprüfen, ob das finale Produkt dem Auftrag entspricht.",
