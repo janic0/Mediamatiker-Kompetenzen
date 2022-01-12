@@ -85,7 +85,7 @@ function App(props: { data: node[] }) {
 			<Head>
 				<title>Mediamatiker-Kompetenzen</title>
 				<meta name="viewport" content="initial-scale=1.0, width=device-width" />
-				<meta name="description" content="Kompenzen eines Mediamatikers in EFZ in der Schweiz" />
+				<meta name="description" content="Liste der Kompetenzen eines Mediamatikers in EFZ in der Schweiz" />
 				<meta name="theme-color" content="#1E2933" />
 				<link rel="icon" href="/favicon.ico" />
 				<script src="https://kit.fontawesome.com/8d8c0ed3fe.js" crossOrigin="anonymous"></script>
