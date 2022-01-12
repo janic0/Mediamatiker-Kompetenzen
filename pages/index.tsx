@@ -138,7 +138,6 @@ function App(props: { data: node[] }) {
 				</header>
 				<footer className="sticky top-0 w-full mb-4">
 					<p className="text-center">
-						This page does not collect any user data.{" "}
 						<a
 							target="_blank"
 							rel="noopener noreferrer"
