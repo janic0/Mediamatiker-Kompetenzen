@@ -12,7 +12,7 @@ export default [
                 title: 'a1: Produktion konzeptionell und organisatorisch vorbereiten',
                 children: to([
                     "a1.1: prüfen, ob die auftragsrelevanten Informationen vollständig und klar verständlich sind und fragen bei Unklarheiten nach.",
-                    "a1.2: erstellen ein Konzept (Moodboard/Drehbuch/Storyboard/Shootingboard) für eine einfache digitale Produktion.",
+                    "a1.2: erstellen ein Konzept (Moodboard / Drehbuch / Storyboard / Shootingboard) für eine einfache digitale Produktion.",
                     "a1.3: wenden einfache Kreativitätstechniken an.",
                     "a1.4: erstellen einen Zeitplan für eine einfache Produktion.",
                     "a1.5: organisieren die benötige Infrastruktur und Materialien für eine Aufnahme. ",
@@ -257,7 +257,7 @@ export default [
         ]
     },
     {
-        title: "h f: Führen von einfachen Projekten",
+        title: "f: Führen von einfachen Projekten",
         children: [
             {
                 title: "f1: Bedürfnisse der Kundinnen und Kunden abklären",
